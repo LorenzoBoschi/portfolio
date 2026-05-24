@@ -17,21 +17,21 @@
 <table>
 <tr>
 <td width="50%">
-<img src="screenshots/Studyoos/01-login.png" alt="Login screen"/>
+<img src="screenshots/studyoos/01-login.png" alt="Login screen"/>
 <p align="center"><i>Google OAuth completed inside the app window</i></p>
 </td>
 <td width="50%">
-<img src="screenshots/Studyoos/02-upload-canzone.png" alt="Voice and backing track upload"/>
+<img src="screenshots/studyoos/02-track-upload.png" alt="Voice and backing track upload"/>
 <p align="center"><i>Drop the voice and the backing track to start the pipeline</i></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<img src="screenshots/Studyoos/03-pulizia%26funzioni.png" alt="Cleanup and autotune controls"/>
+<img src="screenshots/studyoos/03-cleanup-controls.png" alt="Cleanup and autotune controls"/>
 <p align="center"><i>Cleanup parameters, autotune mode and live-preview controls</i></p>
 </td>
 <td width="50%">
-<img src="screenshots/Studyoos/04-analisi-stonature.png" alt="Studio piano-roll editor"/>
+<img src="screenshots/studyoos/04-studio-piano-roll.png" alt="Studio piano-roll editor"/>
 <p align="center"><i>Studio piano-roll — notes colored by how off-pitch they are, drag to retune</i></p>
 </td>
 </tr>
@@ -110,11 +110,11 @@ studyoos/
 </tr>
 <tr>
 <td width="50%">
-<img src="screenshots/acoustia/03-progetto-testuale.png" alt="Study project editor"/>
+<img src="screenshots/acoustia/03-study-project.png" alt="Study project editor"/>
 <p align="center"><i>Study project — rich text body plus side notes</i></p>
 </td>
 <td width="50%">
-<img src="screenshots/acoustia/04-progetto-musicale.png" alt="Music project editor"/>
+<img src="screenshots/acoustia/04-music-project.png" alt="Music project editor"/>
 <p align="center"><i>Music project — rich text, cover and audio takes in one view</i></p>
 </td>
 </tr>
@@ -174,3 +174,11 @@ acoustia/
 ```
 
 User data lives under `%APPDATA%\<legacy-folder>\` with `data.json` (all projects), `audio\`, `covers\` and a rotating set of zip backups; in cloud mode the same tree is mirrored on Google Drive.
+
+---
+
+## Author
+
+**Lorenzo Boschi** — building desktop tools split between IT field work (PC migrations, workstation setup) and home creative projects (recording, songwriting).
+
+[github.com/LorenzoBoschi](https://github.com/LorenzoBoschi)
