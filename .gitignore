@@ -1,0 +1,45 @@
+# ─── OS-generated files ──────────────────────────────────────
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+.directory
+*~
+
+# ─── Editors / IDEs ──────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+
+# ─── Image source files ──────────────────────────────────────
+# Only the exported PNG/JPG screenshots belong in the repo.
+# Keep the editable originals out.
+*.psd
+*.xcf
+*.sketch
+*.fig
+*.ai
+*.afdesign
+
+# ─── Local drafts and scratch ────────────────────────────────
+# Personal working notes that shouldn't ship with the portfolio.
+TODO.md
+NOTES.md
+*.draft.md
+.scratch/
+
+# ─── Misc ────────────────────────────────────────────────────
+*.log
+*.bak
+*.tmp
